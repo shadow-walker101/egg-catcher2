@@ -1,0 +1,7 @@
+# c.bind("<Left>", move_left)
+# c.bind("<Right>", move_right)
+# c.focus_set()
+# root.after(1000, create_egg)
+# root.after(1000, move_eggs)
+# root.after(1000, check_catch)
+# root.mainloop()
